@@ -1,0 +1,379 @@
+C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/mux_4to1.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/mux_4to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_4to1
+
+Top level modules:
+	mux_4to1
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/Strips_PE.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/Strips_PE.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module strips_pe
+
+Top level modules:
+	strips_pe
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/b_reg_file.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/b_reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module b_reg_file
+
+Top level modules:
+	b_reg_file
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_PU_module.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_PU_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_pu_module
+
+Top level modules:
+	tb_pu_module
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/adder_unsigned_2to1_param_width.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/adder_unsigned_2to1_param_width.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_unsigned_2to1_param_width
+
+Top level modules:
+	adder_unsigned_2to1_param_width
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/memory.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/cnt_with_max.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/cnt_with_max.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cnt_with_max
+
+Top level modules:
+	cnt_with_max
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/PU_module.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/PU_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pu_module
+
+Top level modules:
+	pu_module
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/b_reg_file.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/b_reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module b_reg_file
+
+Top level modules:
+	b_reg_file
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_memory.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_memory
+
+Top level modules:
+	tb_memory
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_a_reg_file.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_a_reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_a_reg_file
+
+Top level modules:
+	tb_a_reg_file
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/mux_4to1.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/mux_4to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_4to1
+
+Top level modules:
+	mux_4to1
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_a_reg_file.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_a_reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_a_reg_file
+
+Top level modules:
+	tb_a_reg_file
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/MVMPU_DataPath.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/MVMPU_DataPath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mvmpu_datapath
+
+Top level modules:
+	mvmpu_datapath
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/adder_unsigned_2to1_param_width.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/adder_unsigned_2to1_param_width.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_unsigned_2to1_param_width
+
+Top level modules:
+	adder_unsigned_2to1_param_width
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/MVMPU_Controller.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/MVMPU_Controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mvmpu_controller
+
+Top level modules:
+	mvmpu_controller
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/reg_file.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/shift_register.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/shift_register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_register
+
+Top level modules:
+	shift_register
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_PU_module.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_PU_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_pu_module
+
+Top level modules:
+	tb_pu_module
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/MVMPU_Controller.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/MVMPU_Controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mvmpu_controller
+
+Top level modules:
+	mvmpu_controller
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/adder_for_pe.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/adder_for_pe.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_for_pe
+
+Top level modules:
+	adder_for_pe
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/adder_2to1.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/adder_2to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_2to1
+
+Top level modules:
+	adder_2to1
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/reg_file.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_Strips_PE.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_Strips_PE.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_strips_pe
+
+Top level modules:
+	tb_strips_pe
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/PU_module.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/PU_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pu_module
+
+Top level modules:
+	pu_module
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_reg_file.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_reg_file
+
+Top level modules:
+	tb_reg_file
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_b_reg_file.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_b_reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_b_reg_file
+
+Top level modules:
+	tb_b_reg_file
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/Strips_PE.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/Strips_PE.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module strips_pe
+
+Top level modules:
+	strips_pe
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_cnt_with_max.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_cnt_with_max.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_cnt_with_max
+
+Top level modules:
+	tb_cnt_with_max
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/adder_2to1.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/adder_2to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_2to1
+
+Top level modules:
+	adder_2to1
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_memory.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_memory
+
+Top level modules:
+	tb_memory
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_b_reg_file.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_b_reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_b_reg_file
+
+Top level modules:
+	tb_b_reg_file
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/a_reg_file.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/a_reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module a_reg_file
+
+Top level modules:
+	a_reg_file
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/memory.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/PU_bit_cnt.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/PU_bit_cnt.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pu_bit_cnt
+
+Top level modules:
+	pu_bit_cnt
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/MVMPU_Top_Module.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/MVMPU_Top_Module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mvmpu_top_module
+
+Top level modules:
+	mvmpu_top_module
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/a_reg_file.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/a_reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module a_reg_file
+
+Top level modules:
+	a_reg_file
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/mux_2to1.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/mux_2to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_2to1
+
+Top level modules:
+	mux_2to1
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/PU_bit_cnt.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/PU_bit_cnt.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pu_bit_cnt
+
+Top level modules:
+	pu_bit_cnt
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/cnt_with_max.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/cnt_with_max.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cnt_with_max
+
+Top level modules:
+	cnt_with_max
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_adder_unsigned_2to1_param_width.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_adder_unsigned_2to1_param_width.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_adder_unsigned_2to1_param_width
+
+Top level modules:
+	tb_adder_unsigned_2to1_param_width
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/adder_for_pe.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/adder_for_pe.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_for_pe
+
+Top level modules:
+	adder_for_pe
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_cnt_with_max.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_cnt_with_max.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_cnt_with_max
+
+Top level modules:
+	tb_cnt_with_max
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_MVMPU.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_MVMPU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_mvmpu
+
+Top level modules:
+	tb_mvmpu
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/adder_4to1.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/adder_4to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_4to1
+
+Top level modules:
+	adder_4to1
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/MVMPU_DataPath.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/MVMPU_DataPath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mvmpu_datapath
+
+Top level modules:
+	mvmpu_datapath
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_reg_file.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_reg_file
+
+Top level modules:
+	tb_reg_file
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_adder_unsigned_2to1_param_width.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_adder_unsigned_2to1_param_width.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_adder_unsigned_2to1_param_width
+
+Top level modules:
+	tb_adder_unsigned_2to1_param_width
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_Strips_PE.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/tb_Strips_PE.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_strips_pe
+
+Top level modules:
+	tb_strips_pe
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/adder_4to1.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/adder_4to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_4to1
+
+Top level modules:
+	adder_4to1
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/MVMPU_Top_Module.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/MVMPU_Top_Module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mvmpu_top_module
+
+Top level modules:
+	mvmpu_top_module
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/shift_register.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/prj/shift_register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_register
+
+Top level modules:
+	shift_register
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/mux_2to1.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/mux_2to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_2to1
+
+Top level modules:
+	mux_2to1
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_MVMPU.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA2/Project/tb_MVMPU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_mvmpu
+
+Top level modules:
+	tb_mvmpu
+
+} {} {}}
